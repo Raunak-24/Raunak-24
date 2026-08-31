@@ -3,10 +3,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=1F4F4D&amp;height=210&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=44&amp;fontColor=EDE6D6&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&amp;descAlignY=58&amp;descSize=15&amp;descColor=EDE6D6">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=210&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=44&amp;fontColor=FAF3E0&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&amp;descAlignY=58&amp;descSize=15&amp;descColor=FAF3E0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=210&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=44&amp;fontColor=FAF3E0&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&amp;descAlignY=58&amp;descSize=15&amp;descColor=FAF3E0" width="100%" alt="header banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=1F4F4D&amp;height=200&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=46&amp;fontColor=EDE6D6&amp;animation=twinkling&amp;fontAlignY=40">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=200&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=46&amp;fontColor=FAF3E0&amp;animation=twinkling&amp;fontAlignY=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=200&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=46&amp;fontColor=FAF3E0&amp;animation=twinkling&amp;fontAlignY=40" width="100%" alt="header banner"/>
 </picture>
+
+<sub><b>CS Student · Aspiring Full Stack Developer · Data Science / ML Specialist</b></sub>
 
 <img src="https://avatars.githubusercontent.com/u/190566660?v=4" width="140" alt="Yash Priyam"/>
 
