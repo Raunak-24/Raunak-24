@@ -1,21 +1,40 @@
+<a name="top"></a>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=200&amp;section=header&amp;text=Yash%20Priyam&amp;fontSize=42&amp;fontColor=FAF3E0&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&amp;descAlignY=55&amp;descSize=16&amp;descColor=FAF3E0" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1F4F4D&height=210&section=header&text=Yash%20Priyam&fontSize=44&fontColor=EDE6D6&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&descAlignY=58&descSize=15&descColor=EDE6D6">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2F6F6D&height=210&section=header&text=Yash%20Priyam&fontSize=44&fontColor=FAF3E0&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&descAlignY=58&descSize=15&descColor=FAF3E0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6F6D&height=210&section=header&text=Yash%20Priyam&fontSize=44&fontColor=FAF3E0&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&descAlignY=58&descSize=15&descColor=FAF3E0" width="100%" alt="header banner"/>
+</picture>
 
-<img src="https://avatars.githubusercontent.com/u/190566660?v=4" width="150" style="border-radius:50%;" alt="Yash Priyam"/>
+<img src="https://avatars.githubusercontent.com/u/190566660?v=4" width="140" alt="Yash Priyam"/>
 
 <a href="https://github.com/Raunak-24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2F6F6D&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+full-stack+web+applications;Exploring+Data+Science+%26+Machine+Learning;Learning+one+project+at+a+time;Always+debugging%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=2F6F6D&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Building+full-stack+web+applications;Exploring+Data+Science+%26+Machine+Learning;Turning+coffee+and+curiosity+into+code;Always+debugging%2C+always+learning" alt="Typing SVG"/>
 </a>
 
-<br/>
+<sub><i>"Simple, well-understood code beats clever code — I'm still building toward that."</i></sub>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Raunak-24&amp;label=Profile%20Views&amp;color=2F6F6D&amp;style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Raunak-24?label=Followers&amp;color=2F6F6D&amp;style=flat-square" alt="Followers"/>
 
+<br/><br/>
+
+<a href="#-who-i-am">Who I Am</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-contribution-snake">Snake</a> •
+<a href="#-connect">Connect</a>
+
 </div>
 
 <br/>
+
+---
 
 ## 📓 Who I Am
 
@@ -47,19 +66,31 @@ const developer = {
 };
 ```
 
+<details>
+<summary><b>💭 A little more about my journey</b> — click to expand</summary>
 <br/>
+
+I'm a Computer Science student building toward two directions at once — shipping full-stack web applications and going deeper into data science and machine learning. Most of what I know comes from building things end to end: wiring a frontend to a backend, watching a model actually fit data, and fixing the fifteen small things that break in between.
+
+I like tools that get out of the way — clean React components, a well-structured Express API, a Pandas pipeline that reads like plain English. I'm currently reinforcing core CS fundamentals (DSA, DBMS, OS, Networks) alongside hands-on ML practice, and I'm always up for collaborating with other students on something worth building.
+
+</details>
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 📁 Raunzzz-portfolio
 
-<div align="left">
-<a href="https://github.com/Raunak-24/Raunzzz-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raunak-24&amp;repo=Raunzzz-portfolio&amp;theme=nord&amp;hide_border=true&amp;title_color=2F6F6D&amp;text_color=2B2B2B&amp;bg_color=FAF3E0&amp;icon_color=2F6F6D" alt="Raunzzz-portfolio repo card"/>
-</a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raunak-24&amp;repo=Raunzzz-portfolio&amp;theme=nord&amp;hide_border=true&amp;title_color=2F6F6D&amp;text_color=2B2B2B&amp;bg_color=FAF3E0&amp;icon_color=2F6F6D" alt="Raunzzz-portfolio repo card"/>
 
 A personal résumé/portfolio site, continuously updated as new skills are added.
+
+<details>
+<summary><b>📦 Tech breakdown</b> — click to expand</summary>
+<br/>
 
 | Layer | Technology |
 |---|---|
@@ -68,11 +99,19 @@ A personal résumé/portfolio site, continuously updated as new skills are added
 | Database / ORM | Drizzle ORM |
 | Deployment | GitHub Pages |
 
+</details>
+
 🔗 **Live:** [raunak-24.github.io/Raunzzz-portfolio](https://raunak-24.github.io/Raunzzz-portfolio/) &nbsp;|&nbsp; 💻 **Code:** [github.com/Raunak-24/Raunzzz-portfolio](https://github.com/Raunak-24/Raunzzz-portfolio)
 
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+---
 
 ## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 <br/>
@@ -86,6 +125,9 @@ A personal résumé/portfolio site, continuously updated as new skills are added
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=light" alt="Backend"/>
 
+</td>
+<td valign="top" width="50%">
+
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&amp;theme=light" alt="Databases"/>
@@ -98,41 +140,79 @@ A personal résumé/portfolio site, continuously updated as new skills are added
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=light" alt="Dev Tools"/>
 
+</td>
+</tr>
+</table>
+
 <sub>Also working with Generative AI, LLMs, and AI-assisted development workflows.</sub>
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+---
+
+## 📊 GitHub Analytics
+
+<details open>
+<summary><b>📈 Click to expand / collapse my live stats</b></summary>
 <br/>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Raunak-24&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;title_color=2F6F6D&amp;text_color=2B2B2B&amp;bg_color=FAF3E0&amp;icon_color=2F6F6D" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-24&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;title_color=2F6F6D&amp;text_color=2B2B2B&amp;bg_color=FAF3E0" alt="Top Languages" height="165"/>
-</div>
 
 <img src="https://streak-stats.demolab.com?user=Raunak-24&amp;theme=nord&amp;hide_border=true&amp;background=FAF3E0&amp;ring=2F6F6D&amp;fire=2F6F6D&amp;currStreakLabel=2F6F6D&amp;sideNums=2B2B2B&amp;currStreakNum=2B2B2B&amp;sideLabels=2B2B2B&amp;dates=2B2B2B" alt="GitHub Streak"/>
 
-<br/>
-
-## 🏆 Trophies
-
 <img src="https://github-profile-trophy.vercel.app/?username=Raunak-24&amp;no-frame=true&amp;no-bg=true&amp;theme=gitdimmed&amp;row=1&amp;column=6" alt="GitHub Trophies"/>
-
-<br/>
-
-## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak-24&amp;theme=minimal&amp;bg_color=FAF3E0&amp;color=2F6F6D&amp;line=2F6F6D&amp;point=2B2B2B&amp;area=true&amp;hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 
-<br/>
+</div>
+
+</details>
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-24/Raunak-24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunak-24/Raunak-24/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Raunak-24/Raunak-24/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake eating my commit graph"/>
+</picture>
+
+</div>
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
 
 ## 📬 Connect
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/yash-priyam-ab3b32395"><img src="https://img.shields.io/badge/LinkedIn-2F6F6D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FAF3E0" alt="LinkedIn"/></a>
 <a href="mailto:raunakrajput2411@gmail.com"><img src="https://img.shields.io/badge/Email-2F6F6D?style=for-the-badge&amp;logo=gmail&amp;logoColor=FAF3E0" alt="Email"/></a>
 <a href="https://github.com/Raunak-24"><img src="https://img.shields.io/badge/GitHub-2F6F6D?style=for-the-badge&amp;logo=github&amp;logoColor=FAF3E0" alt="GitHub"/></a>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2F6F6D&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1F4F4D&height=130&section=footer&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2F6F6D&height=130&section=footer&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6F6D&height=130&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
+</picture>
