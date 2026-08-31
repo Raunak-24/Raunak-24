@@ -1,0 +1,33 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically once every day
+  workflow_dispatch: # Allows you to manually trigger it with a button click
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate multiple past commits
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          
+          # This loop creates backdated activity for the past 300 days
+          for i in {300..1}
+          do
+            # Set the date back in time
+            export GIT_COMMITTER_DATE=$(date -d "$i days ago" +%Y-%m-%dT12:00:00)
+            export GIT_AUTHOR_DATE=$(date -d "$i days ago" +%Y-%m-%dT12:00:00)
+            
+            # Make a tiny silent change to a log file
+            echo "Activity log for day $i" >> activity.log
+            git add activity.log
+            git commit --date="$GIT_AUTHOR_DATE" -m "Contribution log sync"
+          done
+          
+          git push origin main
