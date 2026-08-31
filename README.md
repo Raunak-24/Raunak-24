@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6F6D&height=200&section=header&text=Yash%20Priyam&fontSize=42&fontColor=FAF3E0&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%26%20Data%20Science%20%2F%20ML%20Specialist&descAlignY=55&descSize=16&descColor=FAF3E0" width="100%"/>
 
+<img src="https://avatars.githubusercontent.com/u/190566660?v=4" width="150" style="border-radius:50%;" alt="Yash Priyam"/>
+
 <a href="https://github.com/Raunak-24">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=2F6F6D&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Exploring+Data+Science+%26+Machine+Learning;Learning+one+project+at+a+time;Always+debugging%2C+always+learning" alt="Typing SVG" />
 </a>
