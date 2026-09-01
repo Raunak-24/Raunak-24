@@ -40,15 +40,66 @@ Open to     → Collaboration, student projects and learning opportunities
 
 # 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Raunak-24/Raunak-24/main/assets/tech-stack.svg" width="96%" alt="Raunak's Tech Stack"/>
+### 💻 Languages
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
+</div>
+
+<br/><br/>
+
+### 🎨 Frontend
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" alt="Tailwind CSS"/>
+</div>
+
+<br/><br/>
+
+### ⚙️ Backend
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" alt="Node.js"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" alt="Express"/>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" alt="MongoDB"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
+</div>
+
+<br/><br/>
+
+### 📊 Data Science & ML
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="55" alt="Scikit-learn"/>
+</div>
+
+<br/><br/>
+
+### 🛠️ Developer Tools
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" alt="Postman"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
+<div align="center">
 <p><i>✦ Always exploring new horizons ✦</i></p>
 <sub>Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization</sub>
-
 </div>
 
 ---
@@ -89,20 +140,12 @@ A practical application project demonstrating hands-on development and continued
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/Raunak-24">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raunak-24&theme=github_dark" width="96%" alt="GitHub profile activity"/>
-</a>
-
+<a href="https://github.com/Raunak-24"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raunak-24&theme=github_dark" width="96%" alt="GitHub profile activity"/></a>
 <br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raunak-24&theme=github_dark" width="47%" alt="Repositories per language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raunak-24&theme=github_dark" width="47%" alt="Most committed languages"/>
-
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Raunak-24&hide_border=true&background=161616&ring=2F6F6D&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=EDE6D6&currStreakNum=EDE6D6&sideLabels=EDE6D6&dates=AAAAAA" alt="GitHub contribution streak"/>
-
 </div>
 
 ---
