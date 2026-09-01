@@ -38,7 +38,7 @@ Open to     → Collaboration, student projects and learning opportunities
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <table>
 <tr>
@@ -46,46 +46,74 @@ Open to     → Collaboration, student projects and learning opportunities
 
 ### 💻 Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark&perline=5" height="55" alt="Python JavaScript HTML CSS MySQL"/>
+<div>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
+</div>
 
 <br/><br/>
 
 ### 🎨 Frontend
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark&perline=4" height="55" alt="React Tailwind CSS"/>
+<div>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" alt="Tailwind CSS"/>
+</div>
 
 <br/><br/>
 
 ### ⚙️ Backend
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" height="55" alt="Node.js Express"/>
+<div>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" alt="Express"/>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ Databases
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" height="55" alt="MongoDB MySQL"/>
+<div>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
+</div>
 
 <br/><br/>
 
 ### 📊 Data Science & ML
 <br/>
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn&theme=dark&perline=4" height="55" alt="Python Pandas Scikit-learn"/>
+<div>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="55" alt="Scikit-learn"/>
+</div>
 
 <br/><br/>
 
 ### 🛠️ Developer Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="55" alt="Git GitHub VS Code Postman"/>
+<div>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" alt="Postman"/>
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
 <br/>
-**Also exploring:** Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization
+
+<div align="center">
+
+<p><i>✦ Always exploring new horizons ✦</i></p>
+
+<sub>Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization</sub>
+
 </div>
 
 ---
