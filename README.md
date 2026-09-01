@@ -40,77 +40,15 @@ Open to     → Collaboration, student projects and learning opportunities
 
 # 🧰 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
-</div>
-
-<br/><br/>
-
-### 🎨 Frontend
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" alt="Tailwind CSS"/>
-</div>
-
-<br/><br/>
-
-### ⚙️ Backend
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" alt="Express"/>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
-</div>
-
-<br/><br/>
-
-### 📊 Data Science & ML
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="55" alt="Scikit-learn"/>
-</div>
-
-<br/><br/>
-
-### 🛠️ Developer Tools
-<br/>
-<div>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" alt="Postman"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Raunak-24/Raunak-24/main/assets/tech-stack.svg" width="96%" alt="Raunak's Tech Stack"/>
+
+<br/>
+
 <p><i>✦ Always exploring new horizons ✦</i></p>
 <sub>Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization</sub>
+
 </div>
 
 ---
