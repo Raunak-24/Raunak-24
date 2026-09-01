@@ -47,10 +47,10 @@ Open to     → Collaboration, student projects and learning opportunities
 ### 💻 Languages
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
 </div>
 
@@ -59,7 +59,7 @@ Open to     → Collaboration, student projects and learning opportunities
 ### 🎨 Frontend
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" alt="Tailwind CSS"/>
 </div>
 
@@ -68,7 +68,7 @@ Open to     → Collaboration, student projects and learning opportunities
 ### ⚙️ Backend
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" alt="Express"/>
 </div>
 
@@ -78,7 +78,7 @@ Open to     → Collaboration, student projects and learning opportunities
 ### 🗄️ Databases
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/>
 </div>
 
@@ -87,7 +87,7 @@ Open to     → Collaboration, student projects and learning opportunities
 ### 📊 Data Science & ML
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="55" alt="Scikit-learn"/>
 </div>
 
@@ -96,9 +96,9 @@ Open to     → Collaboration, student projects and learning opportunities
 ### 🛠️ Developer Tools
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" alt="Postman"/>
 </div>
 
@@ -109,11 +109,8 @@ Open to     → Collaboration, student projects and learning opportunities
 <br/>
 
 <div align="center">
-
 <p><i>✦ Always exploring new horizons ✦</i></p>
-
 <sub>Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization</sub>
-
 </div>
 
 ---
