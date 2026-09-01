@@ -1,62 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640">
 <rect width="1100" height="640" fill="#0d1117"/>
 <rect x="18" y="18" width="1064" height="604" rx="28" fill="#0d1117" stroke="#2F6F6D" stroke-width="2"/>
-<line x1="550" y1="18" x2="550" y2="622" stroke="#30363d" stroke-width="1"/>
-<line x1="55" y1="210" x2="505" y2="210" stroke="#30363d"/>
-<line x1="55" y1="415" x2="505" y2="415" stroke="#30363d"/>
-<line x1="595" y1="210" x2="1045" y2="210" stroke="#30363d"/>
-<line x1="595" y1="415" x2="1045" y2="415" stroke="#30363d"/>
-
-<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#e6edf3" font-size="25" font-weight="700">
-<text x="55" y="72">💻 Languages</text>
-<text x="595" y="72">🗄️ Databases</text>
-<text x="55" y="270">🎨 Frontend</text>
-<text x="595" y="270">📊 Data Science &amp; ML</text>
-<text x="55" y="475">⚙️ Backend</text>
-<text x="595" y="475">🛠️ Developer Tools</text>
-</g>
-
-<g>
-<rect x="55" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=python&amp;theme=dark" x="63" y="113" width="46" height="46"/>
-<rect x="145" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=js&amp;theme=dark" x="153" y="113" width="46" height="46"/>
-<rect x="235" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=html&amp;theme=dark" x="243" y="113" width="46" height="46"/>
-<rect x="325" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=css&amp;theme=dark" x="333" y="113" width="46" height="46"/>
-<rect x="415" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="423" y="113" width="46" height="46"/>
-
-<rect x="595" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" x="603" y="113" width="46" height="46"/>
-<rect x="685" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="693" y="113" width="46" height="46"/>
-
-<rect x="55" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="63" y="308" width="46" height="46"/>
-<rect x="145" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" x="153" y="308" width="46" height="46"/>
-
-<rect x="595" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=python&amp;theme=dark" x="603" y="308" width="46" height="46"/>
-<rect x="685" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=pandas&amp;theme=dark" x="693" y="308" width="46" height="46"/>
-<rect x="775" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" x="783" y="308" width="46" height="46"/>
-
-<rect x="55" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" x="63" y="513" width="46" height="46"/>
-<rect x="145" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=express&amp;theme=dark" x="153" y="513" width="46" height="46"/>
-
-<rect x="595" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=git&amp;theme=dark" x="603" y="513" width="46" height="46"/>
-<rect x="685" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=github&amp;theme=dark" x="693" y="513" width="46" height="46"/>
-<rect x="775" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=vscode&amp;theme=dark" x="783" y="513" width="46" height="46"/>
-<rect x="865" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/>
-<image href="https://skillicons.dev/icons?i=postman&amp;theme=dark" x="873" y="513" width="46" height="46"/>
-</g>
-</svg>
+<line x1="550" y1="18" x2="550" y2="622" stroke="#30363d"/><line x1="55" y1="210" x2="505" y2="210" stroke="#30363d"/><line x1="55" y1="415" x2="505" y2="415" stroke="#30363d"/><line x1="595" y1="210" x2="1045" y2="210" stroke="#30363d"/><line x1="595" y1="415" x2="1045" y2="415" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#e6edf3" font-size="25" font-weight="700"><text x="55" y="72">💻 Languages</text><text x="595" y="72">🗄️ Databases</text><text x="55" y="270">🎨 Frontend</text><text x="595" y="270">📊 Data Science &amp; ML</text><text x="55" y="475">⚙️ Backend</text><text x="595" y="475">🛠️ Developer Tools</text></g>
+<g font-family="Arial,sans-serif" font-weight="800" text-anchor="middle">
+<g><rect x="55" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="86" y="145" font-size="22" fill="#3776AB">Py</text><rect x="145" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="176" y="145" font-size="24" fill="#F7DF1E">JS</text><rect x="235" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="266" y="143" font-size="18" fill="#E34F26">HTML</text><rect x="325" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="356" y="143" font-size="19" fill="#1572B6">CSS</text><rect x="415" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="446" y="143" font-size="17" fill="#00758F">SQL</text></g>
+<g><rect x="595" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="626" y="145" font-size="18" fill="#47A248">Mongo</text><rect x="685" y="105" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="716" y="143" font-size="17" fill="#4479A1">MySQL</text></g>
+<g><rect x="55" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="86" y="145" transform="translate(0 200)" font-size="22" fill="#61DAFB">React</text><rect x="145" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="176" y="338" font-size="16" fill="#38BDF8">Tailwind</text></g>
+<g><rect x="595" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="626" y="340" font-size="22" fill="#3776AB">Py</text><rect x="685" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="716" y="340" font-size="18" fill="#F89939">Pandas</text><rect x="775" y="300" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="806" y="340" font-size="17" fill="#F89939">Sklearn</text></g>
+<g><rect x="55" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="86" y="545" font-size="20" fill="#68A063">Node</text><rect x="145" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="176" y="545" font-size="22" fill="#E6EDF3">ex</text></g>
+<g><rect x="595" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="626" y="545" font-size="23" fill="#F05032">Git</text><rect x="685" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="716" y="545" font-size="20" fill="#F0F6FC">GitHub</text><rect x="775" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="806" y="545" font-size="18" fill="#4FC3F7">&lt;/&gt;</text><rect x="865" y="505" width="62" height="62" rx="14" fill="#161b22" stroke="#2F6F6D"/><text x="896" y="545" font-size="20" fill="#FF6C37">Postman</text></g>
+</g></svg>
