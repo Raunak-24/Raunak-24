@@ -38,56 +38,54 @@ Open to     → Collaboration, student projects and learning opportunities
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Languages
-
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark&perline=5" height="70" alt="Python JavaScript HTML CSS MySQL"/>
-
-<br/><br/><br/>
-
-### 🎨 Frontend
-
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark&perline=4" height="70" alt="React Tailwind CSS"/>
-
-<br/><br/><br/>
-
-### ⚙️ Backend
-
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" height="70" alt="Node.js Express"/>
-
-<br/><br/><br/>
-
-### 🗄️ Databases
-
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" height="70" alt="MongoDB MySQL"/>
-
-<br/><br/><br/>
-
-### 📊 Data Science & Machine Learning
-
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn&theme=dark&perline=4" height="70" alt="Python Pandas Scikit-learn"/>
-
-<br/><br/><br/>
-
-### 🛠️ Developer Tools
-
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="70" alt="Git GitHub VS Code Postman"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark&perline=5" height="55" alt="Python JavaScript HTML CSS MySQL"/>
 
 <br/><br/>
 
-**Also exploring**
+### 🎨 Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark&perline=4" height="55" alt="React Tailwind CSS"/>
 
-Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization
+<br/><br/>
 
+### ⚙️ Backend
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" height="55" alt="Node.js Express"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" height="55" alt="MongoDB MySQL"/>
+
+<br/><br/>
+
+### 📊 Data Science & ML
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn&theme=dark&perline=4" height="55" alt="Python Pandas Scikit-learn"/>
+
+<br/><br/>
+
+### 🛠️ Developer Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="55" alt="Git GitHub VS Code Postman"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+**Also exploring:** Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization
 </div>
 
 ---
