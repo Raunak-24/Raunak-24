@@ -38,38 +38,57 @@ Open to     → Collaboration, student projects and learning opportunities
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Python JavaScript HTML CSS MySQL"/>
+### 💻 Languages
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React Tailwind CSS"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark&perline=5" height="70" alt="Python JavaScript HTML CSS MySQL"/>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js Express"/>
+<br/><br/><br/>
 
-</td>
-<td width="50%" valign="top">
+### 🎨 Frontend
 
-### Data Science & ML
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn&theme=dark" alt="Python Pandas Scikit-learn"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark&perline=4" height="70" alt="React Tailwind CSS"/>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB MySQL"/>
+<br/><br/><br/>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman"/>
+### ⚙️ Backend
 
-</td>
-</tr>
-</table>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" height="70" alt="Node.js Express"/>
 
-**Also exploring:** Generative AI · LLMs · AI-assisted development · REST APIs · Data visualization
+<br/><br/><br/>
+
+### 🗄️ Databases
+
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" height="70" alt="MongoDB MySQL"/>
+
+<br/><br/><br/>
+
+### 📊 Data Science & Machine Learning
+
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn&theme=dark&perline=4" height="70" alt="Python Pandas Scikit-learn"/>
+
+<br/><br/><br/>
+
+### 🛠️ Developer Tools
+
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="70" alt="Git GitHub VS Code Postman"/>
+
+<br/><br/>
+
+**Also exploring**
+
+Generative AI &nbsp; • &nbsp; LLMs &nbsp; • &nbsp; AI-assisted development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Data visualization
+
+</div>
 
 ---
 
@@ -110,7 +129,6 @@ A practical application project demonstrating hands-on development and continued
 
 <div align="center">
 
-<!-- More reliable profile summary cards than the GitHub Readme Stats endpoint -->
 <a href="https://github.com/Raunak-24">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raunak-24&theme=github_dark" width="96%" alt="GitHub profile activity"/>
 </a>
