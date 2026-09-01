@@ -12,7 +12,7 @@
 <a href="mailto:raunakrajput2411@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2F6F6D?style=for-the-badge&logo=gmail&logoColor=FAF3E0" alt="Email"/></a>
 </td>
 <td width="70%" valign="top">
-<h1>Howdy!</h1>
+<h1>Howdy!This is Yash Priyam</h1>
 <p>I'm a <b>Computer Science student</b> building toward a career in <b>Full Stack Development</b> and <b>Data Science / Machine Learning</b>.</p>
 <p>I enjoy turning ideas into working software — from responsive web interfaces and backend APIs to data pipelines, machine-learning models and AI-powered applications.</p>
 <p>Currently, I'm strengthening my foundations in <b>DSA, DBMS, Operating Systems, Computer Networks and Machine Learning</b> while continuing to build practical projects.</p>
